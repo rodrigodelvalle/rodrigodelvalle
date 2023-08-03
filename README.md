@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>  
-    body{
-      background-image: url('https://w0.peakpx.com/wallpaper/726/10/HD-wallpaper-norse-wolf-norse-wolf.jpg');
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      height: 100vh;
-      margin: 0;
-      padding: 0;
-    }
-  </style>
-  </head>
-<body>
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">Design and Development</h3>
 
@@ -23,6 +7,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigodelvalle&show_icons=true&locale=en&layout=compact" alt="rodrigodelvalle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigodelvalle&show_icons=true&locale=en" alt="rodrigodelvalle" /></p>
-
-</body>
-</html>
